@@ -1,0 +1,9 @@
+n=5
+v=4
+e=3
+if((n>v)and(n>e)):
+  print(n)
+elif((v>n)and(v>e)):
+  print(v)
+else:
+  print(e)
